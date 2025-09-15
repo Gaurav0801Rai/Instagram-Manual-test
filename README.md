@@ -4,9 +4,8 @@
 This project contains **manual test cases and bug reports** created for testing the core features of Instagram.  
 The goal is to validate Instagram’s critical workflows like login, signup, posting, messaging, profile management, and logout.
 
-#Contents
-- `Instagram_TestCases.xlsx` → Contains 25+ manual test cases  
-- `Instagram_BugReports.xlsx` → Contains bug reports for failed cases  
+##Contents
+-Instagram manual test.xlsx  → Contains both test cases and bug reports
 
 ## Features Tested
 - User Login & Signup  
